@@ -1,2 +1,5 @@
 # Hello-World
-just test oneself's learn
+just test one's learning
+Hi!~
+I like c and node.js.
+I am in the road how to learn them.
